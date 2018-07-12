@@ -1,6 +1,7 @@
 # Sempred-Decoding
 
 __Summary__
+
 The aim of this experiment was to test whether we could decode semantic category of a delayed target word, whose category was highly predictive based on the preceding sentence context, prior to its presentation and during the delayed time period (pause). In the first experiment we chose abstract vs. concrete as the class category for decoding. We also tested whether the analysis pipeline could decode isolated auditory and visual words (abstract vs. concrete).
 
 In a second experiment we chose animate vs inanimate as the class category for decoding, repeating the first stage of experiment 1 by decoding the semantic category of a delayed target word prior to its presentation.
