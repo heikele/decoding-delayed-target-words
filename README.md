@@ -16,9 +16,11 @@ In experiment 1 150 stimuli were used in each modality (n=75 per condition) and 
 
 __Experiments:__
 - Experiment 1: 
-          A. delayed concrete/abstract target nouns, 
-          B. concrete/abstract target nouns in auditory word lists
-          C. concrete/abstract target nouns in visual word lists
+          A. delayed concrete/abstract target nouns
+          
+          B. concrete/abstract target isolated auditory nouns (word lists)
+          
+          C. concrete/abstract target isolated visual nouns (word lists)
           
 - Experiment 2:delayed animate/inanimate target nouns)  
 
