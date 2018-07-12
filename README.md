@@ -23,7 +23,8 @@ __Experiments:__
           
           C. concrete/abstract target isolated visual nouns (word lists)
           
-- Experiment 2:delayed animate/inanimate target nouns)  
+- Experiment 2:
+          A. delayed animate/inanimate target nouns)  
 
 __Analyses:__
 - ERP analysis using spatiotemporal permutation t-test on sensor data
